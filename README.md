@@ -224,7 +224,7 @@ kei:42   /kenneth eugene iverson
 
 #### space
 
-The subject of code organization will forever remain a major point of controversy in software development. Computer languages have different philosophies on coding style, especially when it comes to three specific keystrokes: **`\n`**, **`\t`** and, less surprisingly, **`0x20`**. If we define two extremes as "tall, lean, sparse and readable" and "robust, wide, dense and cryptic", then C is a classic example of `tlsr`, and 𝒌 is all the way down `rwdc` road.
+The subject of code organization will forever remain a major point of controversy in software development. Computer languages have different philosophies on coding style, especially when it comes to three specific keystrokes: **`\n`**, **`\t`** and, less surprisingly, **`0x20`** (TIL-The space between the two words has ASCII code 0x20). If we define two extremes as "tall, lean, sparse and readable" and "robust, wide, dense and cryptic", then C is a classic example of `tlsr`, and 𝒌 is all the way down `rwdc` road.
 
 * The primary influence of 𝒌 syntax is the most powerful instrument of human reasoning, *a mathematical notation*. As such, the language actively encourages the programmer to produce very dense and succinct code, which leads to a common pitfall among beginners who are tempted to sacrifice too much readability. As any good program, a good 𝒌 program must remain readable and adequately annotated.
   
